@@ -1,1 +1,1 @@
-python -m PyInstaller --onefile --icon=icon.ico PDFTools.py
+py -m PyInstaller --onefile --icon=icon.ico PDFTools.py
